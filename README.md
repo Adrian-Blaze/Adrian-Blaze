@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+![Navy And White Geometric Technology  LinkedIn Banner](https://github.com/Adrian-Blaze/Adrian-Blaze/assets/122130531/60def6da-f819-4a44-94ee-6ea580fc8b05)
+
+
+Technical Skills
+Python Machine Learning EDA NLP TensorFlow Streamlit Large Language Model Langchain OpenAI Computer Vision FastAPI Django
+
 <!--
 **Adrian-Blaze/Adrian-Blaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
